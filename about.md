@@ -2,37 +2,40 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+<!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
+
 
 I am currently a scientist of computational biology at [23andMe Therapeutics](https://therapeutics.23andme.com/). In my role, I apply statistical methods and build computation tools to analyze genetic database and identify novel therapeutic targets. I also serve as one of the organizers of the [Bay Area Biotech-Pharma Statistics (BBSW) Meetups](https://www.bbsw.org/meetupabout).
 
-I graduated with a PhD from the [Department of Biostatistics](https://bios.unc.edu) at [The University of North Carolina Chapel Hill](https://unc.edu) in 2019. I worked with [Dr. Michael Love](https://mikelove.github.io) and [Dr. Joseph Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/) to develop statistical methods for sequence count data and integrative functional genomics. During my PhD I worked at the [Biostatistics Core](https://unclineberger.org/biostats/) of [Lineberger Comprehensive Cancer Center](https://unclineberger.org/) collaborating with oncologists on multiple clinical and genomics studies. I also worked with [Dr. Donglin Zeng](http://bios.unc.edu/~dzeng/) on causal effects of drug/drug-drug interactions with electronic medical records (EMR).
+I graduated with a PhD from the [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/) at [The University of North Carolina Chapel Hill](https://unc.edu) in 2019. I worked with [Dr. Michael Love](https://mikelove.github.io) and [Dr. Joseph Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/) to develop statistical methods for sequence count data and integrative functional genomics. During my PhD I worked at the [Biostatistics Core](https://unclineberger.org/biostats/) of [Lineberger Comprehensive Cancer Center](https://unclineberger.org/) collaborating with oncologists on multiple clinical and genomics studies. I also worked with [Dr. Donglin Zeng](http://bios.unc.edu/~dzeng/) on estimating and testing causal effects of drug/drug-drug interactions with electronic medical records (EMR).
 
-I am originally from China, and was born and raised in Beijing. During my senior year at [The Capitol University of Economics and Business](https://english.cueb.edu.cn/) (首都经济贸易大学) majoring in Statistics, I realized that I am more interested in developing and applying statistical methods to answer healthcare questions. This idea motivated my decision to apply to graduate school in Biostatistics, and join biotech industry upon graduation.
+I am originally from China, and was born and raised in Beijing. During my senior year at [The Capitol University of Economics and Business](https://english.cueb.edu.cn/) (首都经济贸易大学) majoring in Statistics, I realized that I am more interested in developing and applying statistical methods to answer healthcare questions. This idea motivated my decision to apply to graduate school in Biostatistics, and to join biotech industry upon graduation.
 
 My favorite statistics quote is  
 "*Statistics is the grammar of science.*" -- Karl Pearson 
 
+<h2>Research Interests</h2>
+
+<ul class="skill-list">
+	<li>Statistical methods of genomics data</li>
+	<li>RNA-seq and scRNA-seq data</li>
+	<li>Statistical genetics</li>
+	<li>Empirical Bayes methods</li>
+	<li>Causal inference methods</li>
+</ul>
+
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>R - package development, data analaysis and visualization, RStudio</li>
+	<li>SAS - data management and statistical procedures, certified SAS programmer </li>
+	<li>SQL - MySQL, PostgreSQL</li>
+	<li>High Performance Computing - SGE, slurm, LSF</li>
+	<li>UNIX commands and bash script writing</li>
 	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
 </ul>
 
-<h2>Education</h2>
+<h2>Featured</h2>
 
 <ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>

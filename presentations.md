@@ -8,7 +8,6 @@ layout: page
 * July 2019, JSM2019, Denver CO  
 *"Nonparametric expression analysis using inferential replicate counts"*
 
-
 * March 2018, ENAR2018, Atlanta GA  
 *"Application of t priors to sequence count data: removing the noise and
 preserving large differences"*

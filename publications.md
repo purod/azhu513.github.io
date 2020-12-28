@@ -8,7 +8,7 @@ My google scholar page is [here](https://scholar.google.com/citations?user=zcsUP
 <h2>Method paper</h2>
 
 **Anqi Zhu** [1], Nana Matoba [1], Emmaleigh Wilson, Amanda L. Tapia, Yun Li,
-Joseph G. Ibrahim, Jason L. Stein, **Michael I. Love**.
+Joseph G. Ibrahim, Jason L. Stein, Michael I. Love.
 MRLocus: identifying causal genes mediating a trait through Bayesian
 estimation of allelic heterogeneity.
 *bioRxiv*, August 2020.
@@ -18,14 +18,14 @@ estimation of allelic heterogeneity.
 A super‐combo‐drug test to detect adverse drug events and drug interactions from electronic health records in the era of polypharmacy. *Statistics in Medicine* February 2020. [doi.org/10.1002/sim.8490](https://doi.org/10.1002/sim.8490)
 
 **Anqi Zhu**, Avi Srivastava, Joseph G. Ibrahim, Rob Patro, 
-**Michael I. Love**.
+Michael I. Love.
 Nonparametric expression analysis using inferential replicate counts.
 *Nucleic Acids Research*, August 2019.
 [doi: 10.1093/nar/gkz622](https://doi.org/10.1093/nar/gkz622),
 `swish` function in the 
 [fishpond](https://github.com/mikelove/fishpond) R/Bioconductor package
 
-**Anqi Zhu**, Joseph G. Ibrahim, **Michael I. Love**.
+**Anqi Zhu**, Joseph G. Ibrahim, Michael I. Love.
 Heavy-tailed prior distributions for sequence count data: removing the
 noise and preserving large differences.
 *Bioinformatics*, November 2018.

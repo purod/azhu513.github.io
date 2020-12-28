@@ -1,6 +1,6 @@
 # main text of home
 name: Anqi Zhu
-bio: A curious scientist with prior knowledge in Biostatistics.
+bio: A curious scientist with a prior knowledge in Biostatistics.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -13,8 +13,8 @@ picture: assets/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://www.dropbox.com/s/vsjkmwy3jauyux4/Anqi%20Zhu%20Resume.pdf?dl=0
+resume-external: false
+resume-url: assets/documents/Anqi_Zhu_Resume.pdf
 
 url: https://azhu513.github.io/
 # your url: https://USERNAME.github.io
@@ -55,7 +55,7 @@ email: anqi.zhu.1991@gmail.com
 authors:
   azhu513:
     name: Anqi Zhu
-    bio: A curious scientist with prior knowledge in Biostatistics.
+    bio: A curious scientist with a prior knowledge in Biostatistics.
     external-image: false
     picture: assets/images/profile.jpg
     twitter: anqiz91
@@ -64,7 +64,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
@@ -75,10 +75,14 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+# projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
+software: true
+publications: true
+presentations: true
+teaching: true
 blog: true
 
 # do you want to show the "read time" of the posts?
@@ -91,7 +95,7 @@ show-tags: true
 related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+post-advance-links: [blog, project]
 
 # show author block at the end of a post ?
 show-author: true

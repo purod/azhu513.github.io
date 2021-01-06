@@ -37,6 +37,10 @@ Estimating causal log-odds ratio using the case-control sample and its applicati
 
 <h2>Collaboration paper</h2>
 
+Lauren Drawdy, Theresa Kline, Jordan Miller, Allison Deal, **Anqi Zhu**, Margaret Sketch, Catherine Coombs, Benyam Muluneh.
+Impact of Adherence to Ibrutinib on Clinical Outcomes in Real-World Patients With Chronic Lymphocytic Leukemia,
+*Journal  of the Advanced  Practitioner in Oncology* accepted, 2021.
+
 Mark Ehlers, Marc Bjurlin, John Gore, Raj Pruthi, Gopal Narang, Ray Tan, Matthew Nielsen, **Anqi Zhu**, Allison Deal, Angela Smith.
 A national cross-sectional survey of financial toxicity among bladder cancer patients,
 *Urologic Oncology: Seminars and Original Investigations*, October 2020.

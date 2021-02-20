@@ -101,6 +101,24 @@
         </a>
     {% endif %}
 
+    {% if site.googlescholar %}
+    <a class="link" data-title="scholar.google.com/citations?user={{ site.googlescholar }}" href="https://scholar.google.com/citations?user={{ site.googlescholar }}" target="_blank">
+        <svg class="icon icon-googlescholar"><use xlink:href="#icon-googlescholar"></use></svg>
+    </a>
+    {% endif %}
+
+    {% if site.orcid %}
+    <a class="link" data-title="orcid.org/{{ site.orcid }}" href="https://orcid.org/{{ site.orcid }}" target="_blank">
+        <svg class="icon icon-orcid"><use xlink:href="#icon-orcid"></use></svg>
+    </a>
+    {% endif %}
+
+    {% if site.researchgate %}
+    <a class="link" data-title="researchgate.net/profile/{{ site.researchgate }}" href="https://www.researchgate.net/profile/{{ site.researchgate }}" target="_blank">
+        <svg class="icon icon-researchgate"><use xlink:href="#icon-researchgate"></use></svg>
+    </a>
+    {% endif %}
+
     {% if site.email %}
         <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
             <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>

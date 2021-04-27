@@ -11,8 +11,7 @@ My google scholar page is [here](https://scholar.google.com/citations?user=zcsUP
 Joseph G. Ibrahim, Jason L. Stein, Michael I. Love.
 MRLocus: identifying causal genes mediating a trait through Bayesian
 estimation of allelic heterogeneity.
-*bioRxiv*, August 2020.
-[doi: 10.1101/2020.08.14.250720](https://doi.org/10.1101/2020.08.14.250720)
+*PLOS Genetics* 17(4): e1009455. [doi.org/10.1371/journal.pgen.1009455](https://doi.org/10.1371/journal.pgen.1009455)
 
 **Anqi Zhu**, Donglin Zeng, Li Shen, Xia Ning, Lang Li, and Pengyue Zhang. 
 A super‐combo‐drug test to detect adverse drug events and drug interactions from electronic health records in the era of polypharmacy. *Statistics in Medicine* February 2020. [doi.org/10.1002/sim.8490](https://doi.org/10.1002/sim.8490)

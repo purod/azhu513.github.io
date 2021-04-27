@@ -14,7 +14,7 @@ estimation of allelic heterogeneity.
 *PLOS Genetics*, April 2021. [doi.org/10.1371/journal.pgen.1009455](https://doi.org/10.1371/journal.pgen.1009455)
 
 **Anqi Zhu**, Donglin Zeng, Li Shen, Xia Ning, Lang Li, and Pengyue Zhang. 
-A super‐combo‐drug test to detect adverse drug events and drug interactions from electronic health records in the era of polypharmacy. *Statistics in Medicine* February 2020. [doi.org/10.1002/sim.8490](https://doi.org/10.1002/sim.8490)
+A super‐combo‐drug test to detect adverse drug events and drug interactions from electronic health records in the era of polypharmacy. *Statistics in Medicine*, February 2020. [doi.org/10.1002/sim.8490](https://doi.org/10.1002/sim.8490)
 
 **Anqi Zhu**, Avi Srivastava, Joseph G. Ibrahim, Rob Patro, 
 Michael I. Love.

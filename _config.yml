@@ -1,6 +1,6 @@
 # main text of home
 name: Qian Du
-bio: A curious scientist with a prior knowledge in Biostatistics.
+bio: A curious scientist with a prior knowledge in Precision Medicine.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/documents/Anqi_Zhu_Resume.pdf
+resume-url: assets/documents/QianDu_Resume03102021.pdf
 
 url: https://purod.github.io/
 # your url: https://USERNAME.github.io
@@ -30,34 +30,34 @@ analytics-google: 'UA-186083774-1'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
- shortname: azhu513 # enter this from your disqus account
+ shortname: qdu # enter this from your disqus account
  categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: anqiz91
+# twitter: anqiz91
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: aqzhu91
+linkedin: ds-qiandu
 # youtube: myyoutube
 # spotify: myspotify
-github: azhu513
-googlescholar: zcsUPtgAAAAJ&hl=en
-orcid: 0000-0002-3297-9642
-researchgate: Anqi-Zhu
+github: purod
+googlescholar: kH44ro8AAAAJ&hl=en
+orcid: 0000-0003-3864-8745
+researchgate: Qian-Du-4
 # gitlab: mygitlab
 # lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
+stackoverflow: 8222690/purod
 # quora: userquora
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: anqi.zhu.1991@gmail.com
+email: djyjin@gmail.com
 
 authors:
   azhu513:
-    name: Anqi Zhu
+    name: Qian Du
     bio: A curious scientist with a prior knowledge in Biostatistics.
     external-image: false
     picture: assets/images/profile.jpg

@@ -103,17 +103,11 @@ Soonkyu Chung, Bin Duan, Yuguo Lei.
 A scalable and efficient bioprocess for manufacturing human pluripotent stem cell-derived endothelial cells.
 *Stem cell reports*, August 2018. [doi.org/10.1016/j.stemcr.2018.07.001](https://doi.org/10.1016/j.stemcr.2018.07.001)
 
-Haishuang Lin, **Qian Du**, Qiang Li, Ou Wang, Zhanqi Wang, Kan Liu, Christian Elowsky, Chi Zhang, Yuguo Lei.
+Haishuang Lin [1], **Qian Du [1]**, Qiang Li, Ou Wang, Zhanqi Wang, Kan Liu, Christian Elowsky, Chi Zhang, Yuguo Lei.
 Hydrogel-Based Bioprocess for Scalable Manufacturing of Human Pluripotent Stem Cell-Derived Neural Stem Cells.
 *ACS applied materials & interfaces*, August 2018. [doi.org/10.1021/acsami.8b05780](https://doi.org/10.1021/acsami.8b05780)
 
 Qiang Li, Haishuang Lin, **Qian Du**, Kan Liu, Ou Wang, Catelyn Evans, Hannah Christian, Chi Zhang, Yuguo Lei.
 Scalable and physiologically relevant microenvironments for human pluripotent stem cell expansion and differentiation.
 *Biofabrication*, Feb 2018. [doi.org/10.1088/1758-5090/aaa6b5](https://doi.org/10.1088/1758-5090/aaa6b5)
-
-
-
-
-
-
 

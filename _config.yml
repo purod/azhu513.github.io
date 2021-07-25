@@ -1,5 +1,5 @@
 # main text of home
-name: Anqi Zhu
+name: Qian Du
 bio: A curious scientist with a prior knowledge in Biostatistics.
 
 # twitter summary info
@@ -16,7 +16,7 @@ resume: true
 resume-external: false
 resume-url: assets/documents/Anqi_Zhu_Resume.pdf
 
-url: https://azhu513.github.io/
+url: https://purod.github.io/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
